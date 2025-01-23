@@ -28,11 +28,6 @@
 
 
 
-<img src="# 💫 About Me:
-🔭 I’m currently working on web development and java<br>👯 I’m looking to collaborate on web dev. and java projects<br>🤝 I’m looking for help with the above mentioned languages<br>🌱 I’m currently pursuing B.tech CSE<br>⚡  Ask me about anything ! I am extremely helpful !<br>
-
-
-
 
  
 ## 🌐 Socials:
