@@ -1,7 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on web development and java<br>👯 I’m looking to collaborate on web dev. and java projects<br>🤝 I’m looking for help with the above mentioned languages<br>🌱 I’m currently pursuing B.tech CSE<br>⚡  Ask me about anything ! I am extremely helpful !<br>
+💫 About Me:
+👨‍💻 Technical Lead at a software company, where I have the privilege of guiding both front-end and partial back-end development efforts. I’m involved in delivering impactful solutions and leading a talented team through complex challenges while continuously learning and growing alongside them.
 
-<br>
+🌱 Pursuing B.Tech in Computer Science Engineering (CSE)—currently in my second year. Along with my work in the industry, I maintain a strong academic track record (GPA above 3.5), balancing both my professional and academic responsibilities with dedication and a passion for growth.
+
+🔭 AI/ML Enthusiast with plans to dive into a hands-on project in this field soon! Excited to explore how these technologies can innovate and solve real-world problems. I’m always looking for ways to learn, collaborate, and push the boundaries of what's possible.
+
+⚡ Passionate about web development, Java, and leadership in tech. I believe in fostering a collaborative environment where everyone can contribute, learn, and grow together.
+
+🤝 Looking to connect with fellow enthusiasts, mentors, and collaborators for all things AI/ML, web development, and Java. I’m always open to learning from others, offering help where I can, and building meaningful, impactful solutions.<br>
  
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="GIF description" title="GIF title" align="center" width="auto" height="auto">
 
