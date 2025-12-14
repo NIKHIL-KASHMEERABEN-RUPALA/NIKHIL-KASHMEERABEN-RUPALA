@@ -53,12 +53,12 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 ### 🧠 Neuro Forge
 - Repo: https://github.com/NIKHIL-KASHMEERABEN-RUPALA/neuro-forge
 - URL : https://neuroforge-ten.vercel.app
-- One-liner: ML experimentation toolkit — reproducible pipelines, utilities, and deployment examples for rapid prototyping.
+- nutshell core idea: ML experimentation toolkit — reproducible pipelines, utilities, and deployment examples for rapid prototyping.
 - Badges: ![stars](https://img.shields.io/github/stars/NIKHIL-KASHMEERABEN-RUPALA/neuro-forge?style=social) ![release](https://img.shields.io/github/v/release/NIKHIL-KASHMEERABEN-RUPALA/neuro-forge?sort=semver)
 
 ### 💬 Java Chatting Application
 - Repo: (https://github.com/NIKHIL-KASHMEERABEN-RUPALA/chat_app)
-- One-liner: Lightweight real-time chat system showcasing Java networking, concurrency and UI fundamentals.
+- nutshell core idea : Lightweight real-time chat system showcasing Java networking, concurrency and UI fundamentals.
 - Badges: ![stars](https://img.shields.io/github/stars/NIKHIL-KASHMEERABEN-RUPALA/java-chatting-application?style=social) ![issues](https://img.shields.io/github/issues/NIKHIL-KASHMEERABEN-RUPALA/java-chatting-application)
 
 ---
