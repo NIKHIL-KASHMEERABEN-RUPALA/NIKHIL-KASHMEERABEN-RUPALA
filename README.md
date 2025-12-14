@@ -126,10 +126,10 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 <!--
   Automation-ready: 
   - <!--updated--> marker for a timestamp updater workflow
-  - BLOG-POSTS markers for RSS-to-README inserter
-  - Project sections can be auto-filled from repo metadata
+  <!-- BLOG-POSTS markers for RSS-to-README inserter
+   Project sections can be auto-filled from repo metadata
 -->
 
 <footer align="center"> 
-  <sub>Made with ❤️ and automation — highly visual, dynamic and ready to impress.</sub>
+  <sub>Made with ❤️ and automation </sub>
 </footer>
