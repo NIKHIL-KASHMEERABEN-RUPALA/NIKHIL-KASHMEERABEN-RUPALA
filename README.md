@@ -105,7 +105,7 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 
 ---
 
-## 📫 Contact
+## 📫 Connect with me here -- 
 <p align="center">
   <a href="mailto:rupalanikhil8@gmail.com" title="Email"> 
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
