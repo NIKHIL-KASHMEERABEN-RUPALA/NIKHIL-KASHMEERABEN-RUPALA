@@ -131,5 +131,5 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 -->
 
 <footer align="center"> 
-  <sub>Made with ❤️ and automation </sub>
+  <sub> EAT-CODE-SLEEP !! </sub>
 </footer>
