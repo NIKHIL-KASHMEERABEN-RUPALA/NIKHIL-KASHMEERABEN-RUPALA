@@ -10,7 +10,7 @@
 <!--readme-top-->
 <p align="center"> 
   <a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello%20👋%20I%27m%20Nikhil%20Kashmeeraben%20Rupala&fontSize=48&fontColor=ffffff&animation=twinkling" alt="header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello%20👋%20I%27m%20Nikhil%20Patel&fontSize=48&fontColor=ffffff&animation=twinkling" alt="header"/>
   </a>
 </p>
 
