@@ -52,6 +52,7 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 
 ### 🧠 Neuro Forge
 - Repo: https://github.com/NIKHIL-KASHMEERABEN-RUPALA/neuro-forge
+- URL : https://neuroforge-ten.vercel.app
 - One-liner: ML experimentation toolkit — reproducible pipelines, utilities, and deployment examples for rapid prototyping.
 - Badges: ![stars](https://img.shields.io/github/stars/NIKHIL-KASHMEERABEN-RUPALA/neuro-forge?style=social) ![release](https://img.shields.io/github/v/release/NIKHIL-KASHMEERABEN-RUPALA/neuro-forge?sort=semver)
 
