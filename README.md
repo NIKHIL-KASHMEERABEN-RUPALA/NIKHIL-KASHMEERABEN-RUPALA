@@ -125,7 +125,8 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 <!-- Hidden automation notes for maintainers -->
 <!--
   Automation-ready: 
-  - <!--updated--> marker for a timestamp updater workflow
+  <!--
+   <!--updated--> marker for a timestamp updater workflow -->
   <!-- BLOG-POSTS markers for RSS-to-README inserter
    Project sections can be auto-filled from repo metadata
 -->
