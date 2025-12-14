@@ -85,13 +85,13 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-KASHMEERABEN-RUPALA&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NIKHIL-KASHMEERABEN-RUPALA&theme=radical&column=7" alt="Trophies" />
 </p>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=NIKHIL-KASHMEERABEN-RUPALA&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
+</p> -->
 
 ---
 
