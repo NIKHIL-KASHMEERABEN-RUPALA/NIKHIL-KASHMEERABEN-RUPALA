@@ -45,7 +45,7 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
     <img src="https://img.shields.io/badge/Neuro-Forge-8A2BE2?style=for-the-badge&logo=neovim" alt="Neuro Forge" />
   </a>
   &nbsp;
-  <a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA/java-chatting-application" title="Java Chat App">
+  <a href="[https://github.com/NIKHIL-KASHMEERABEN-RUPALA/java-chatting-application](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/chat_app)" title="Java Chat App">
     <img src="https://img.shields.io/badge/Java-Chat-FF8C00?style=for-the-badge&logo=java" alt="Java Chat" />
   </a>
 </p>
