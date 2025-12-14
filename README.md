@@ -15,7 +15,7 @@
 </p>
 
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00BFFF&width=780&lines=Aspiring+AI/ML+Engineer;Full-stack+Engineer;Open-Source+Contributor;Building+Impactful+Products" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00BFFF&width=780&lines=Aspiring+AI/ML+Engineer;Full-stack+Developer;Open-Source+Contributor;Building+Impactful+Products" alt="typing"/>
 
   <p>
     <img alt="profile-views" src="https://komarev.com/ghpvc/?username=NIKHIL-KASHMEERABEN-RUPALA&color=0e75b6" />
