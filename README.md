@@ -16,7 +16,7 @@
   </p>
 </div>
 
-Updated on: 2025-12-14---
+Updated on: 2026-01-13
 
 ## ✨ About Me
 I build elegant, reliable systems and AI-powered developer tools. I love turning research ideas into production-ready features and making developer experiences delightful.
