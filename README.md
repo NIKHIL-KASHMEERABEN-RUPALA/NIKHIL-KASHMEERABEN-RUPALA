@@ -85,5 +85,5 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 
 <footer align="center"> 
   <sub> machinery beneath the formula, is actually where true knowledge thrives 
-  just like - Memory holds results while the mastery holds reasons</sub>
+  </sub>
 </footer>
