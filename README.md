@@ -1,13 +1,3 @@
-<!--
-  Ultra-dynamic & highly-attractive GitHub profile README for:
-  NIKHIL-KASHMEERABEN-RUPALA
-
-  - Features: bold header, animated typing, dynamic cards, skill icons, project spotlight, clickable contact icons
-  - BLOG-POSTS markers are present but hidden inside HTML comments for automation
-  - Explanatory automation notes are hidden in HTML comments so they are not visible to readers
--->
-
-<!--readme-top-->
 <p align="center"> 
   <a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA"> 
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hello%20👋%20I%27m%20Nikhil%20Patel&fontSize=48&fontColor=ffffff&animation=twinkling" alt="header"/>
@@ -26,8 +16,7 @@
   </p>
 </div>
 
-<!--updated-->Updated on: 2025-12-14<!--/updated-->
----
+Updated on: 2025-12-14---
 
 ## ✨ About Me
 I build elegant, reliable systems and AI-powered developer tools. I love turning research ideas into production-ready features and making developer experiences delightful.
@@ -79,31 +68,17 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 ---
 
 ## 📈 Live Stats
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=NIKHIL-KASHMEERABEN-RUPALA" alt="3D Contribution Graph" />
+</p>
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL-KASHMEERABEN-RUPALA&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-KASHMEERABEN-RUPALA&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIKHIL-KASHMEERABEN-RUPALA&theme=radical&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NIKHIL-KASHMEERABEN-RUPALA&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p> -->
-
----
-
-## 📝 Latest blog posts
-<!-- BLOG-POSTS:START -->
-<!--
-  Hidden markers for automation. A workflow can replace this commented block with
-  generated markdown for latest blog posts fetched from an RSS feed.
--->
-<!-- BLOG-POSTS:END -->
-
----
 
 ## 📫 Connect with me here -- 
 <p align="center">
@@ -121,14 +96,6 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 </p>
 
 ---
-
-<!-- Hidden automation notes for maintainers -->
-<!--
-  Automation-ready: 
-  
-  <!-- BLOG-POSTS markers for RSS-to-README inserter
-   Project sections can be auto-filled from repo metadata
--->
 
 <footer align="center"> 
   <sub> EAT-CODE-SLEEP !! </sub>
