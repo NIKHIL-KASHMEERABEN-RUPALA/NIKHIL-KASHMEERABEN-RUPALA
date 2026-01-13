@@ -70,7 +70,7 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 ## 📈 Live Stats
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=NIKHIL-KASHMEERABEN-RUPALA" alt="3D Contribution Graph" />
+  <img src="https://yobany.vercel.app/api/gh-3d?user=NIKHIL-KASHMEERABEN-RUPALA&theme=dark" alt="3D Contribution Graph" />
 </p>
 
 <p align="center"> 
@@ -78,6 +78,8 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-KASHMEERABEN-RUPALA&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
 
 
 ## 📫 Connect with me here -- 
