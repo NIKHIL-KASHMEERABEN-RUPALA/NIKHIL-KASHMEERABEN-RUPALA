@@ -65,22 +65,6 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 - DBs: PostgreSQL • MongoDB • Redis
 - Observability: Prometheus • Grafana
 
----
-
-## 📈 Live Stats
-
-<p align="center">
-  <img src="https://yobany.vercel.app/api/gh-3d?user=NIKHIL-KASHMEERABEN-RUPALA&theme=dark" alt="3D Contribution Graph" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL-KASHMEERABEN-RUPALA&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-KASHMEERABEN-RUPALA&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 
 ## 📫 Connect with me here -- 
 <p align="center">
@@ -100,5 +84,6 @@ I build elegant, reliable systems and AI-powered developer tools. I love turning
 ---
 
 <footer align="center"> 
-  <sub> EAT-CODE-SLEEP !! </sub>
+  <sub> machinery beneath the formula, is actually where true knowledge thrives 
+  just like - Memory holds results while the mastery holds reasons</sub>
 </footer>
