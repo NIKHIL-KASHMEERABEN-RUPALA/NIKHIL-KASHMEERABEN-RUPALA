@@ -86,18 +86,6 @@ I'm an **aspiring AI/ML Engineer** with strong **full-stack development** expert
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NIKHIL-KASHMEERABEN-RUPALA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-KASHMEERABEN-RUPALA&layout=compact&theme=radical&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKHIL-KASHMEERABEN-RUPALA&theme=radical" />
-</div>
-
----
 
 ## 🎓 Certifications & Learning
 
