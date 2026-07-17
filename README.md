@@ -17,9 +17,6 @@
 <a href="https://www.kaggle.com/nikhilrupala">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-<a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <br/>
 
