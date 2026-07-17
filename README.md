@@ -126,53 +126,6 @@ I strongly believe in understanding concepts deeply, writing clean and maintaina
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ❤️ Cardiovascular Disease Prediction
-End-to-end ML project for predicting cardiovascular disease using advanced data preprocessing, feature engineering, visualization, and ensemble learning techniques.
-
-`Python` `Scikit-Learn` `XGBoost` `Pandas`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Grievance Management System
-Secure enterprise-inspired platform for complaint registration, tracking, assignment, and resolution through a scalable backend architecture.
-
-`Backend` `System Design` `Database`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Hospital Management System
-Healthcare management platform for patient records, appointments, and administrative workflows using a modular, scalable backend.
-
-`Backend` `MySQL` `Modular Architecture`
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ AI Travel Planner
-Multi-agent AI-powered travel assistant generating intelligent, personalized travel plans using LLMs and autonomous AI agents.
-
-`LangChain` `LangGraph` `LLMs` `Agentic AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏙️ NagarikAI
-AI-powered citizen assistance platform that simplifies access to public services using intelligent automation and conversational AI.
-
-`LLMs` `Conversational AI` `Automation`
-
 </td>
 <td width="50%" valign="top">
 
