@@ -26,7 +26,7 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 ```yaml
 name:            "Nikhil Rupala"
