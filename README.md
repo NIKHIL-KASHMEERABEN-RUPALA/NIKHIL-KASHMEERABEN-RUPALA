@@ -133,10 +133,6 @@ My current focus spans **Deep Learning, Large Language Models, Agentic AI, Backe
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NIKHIL-KASHMEERABEN-RUPALA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-KASHMEERABEN-RUPALA&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKHIL-KASHMEERABEN-RUPALA&theme=tokyonight&hide_border=true" width="60%"/>
