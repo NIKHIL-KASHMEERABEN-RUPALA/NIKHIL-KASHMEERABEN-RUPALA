@@ -1,19 +1,19 @@
 <div align="center">
 
 <a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems+with+AI+%26+ML;Engineering+Production-Grade+Backend+Services;Deploying+Scalable+Solutions+on+the+Cloud;Deeply+Curious.+Relentlessly+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems+with+AI+%26+ML;Engineering+Production-Grade+Backend+Services;Deploying+Scalable+Solutions+on+the+Cloud;Deeply+Curious.+Relentlessly+Building." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/nikhil-rupala-561b6b300/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/NIK00R/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://www.kaggle.com/nikhilrupala">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 <br/>
@@ -27,11 +27,11 @@
 ## About Me
 
 ```yaml
-name:            "Nikhil Rupala"
-role:            "Computer Engineering Student"
-location:        "India"
-focus:           ["AI Engineering", "Machine Learning", "Backend Systems", "Cloud Computing"]
-mindset:         "Learn deeply. Build relentlessly. Ship responsibly."
+name:            "Nikhil Rupala"
+role:            "Computer Engineering Student"
+location:        "India"
+focus:           ["AI Engineering", "Machine Learning", "Backend Systems", "Cloud Computing"]
+mindset:         "Learn deeply. Build relentlessly. Ship responsibly."
 ```
 
 I'm a Computer Engineering student building at the intersection of **Artificial Intelligence, Machine Learning, and Backend Engineering** — turning raw data into intelligent, production-ready systems.
@@ -135,7 +135,7 @@ My current focus spans **Deep Learning, Large Language Models, Agentic AI, Backe
 <div align="center">
 <br/>
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKHIL-KASHMEERABEN-RUPALA&theme=tokyonight&hide_border=true" width="60%"/> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKHIL-KASHMEERABEN-RUPALA&theme=tokyonight&hide_border=true" width="60%"/> 
 
 <br/>
 
@@ -167,7 +167,5 @@ I believe in understanding concepts deeply rather than memorizing syntax — sol
 <a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" width="100%"/>
 
 </div>
