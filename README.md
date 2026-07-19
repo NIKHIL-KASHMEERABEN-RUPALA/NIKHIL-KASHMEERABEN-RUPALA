@@ -153,7 +153,7 @@ Languages change. Frameworks fade. The ability to reason through complexity rema
 <br/>
 <br/>
 <br/>
-I measure engineering not by the software it produces, but by the complexity it quietly eliminates.
+my core working principle is to measure engineering not by the software it produces, but by the complexity it quietly eliminates , engineer systems that teach machines to reason and systems to endure & continue to solve problems long after I'm gone.
 </div>
 
 <br/>
