@@ -150,6 +150,9 @@ My current focus spans **Deep Learning, Large Language Models, Agentic AI, Backe
 <div align="center">
 
 *"Languages change. Frameworks fade. The ability to reason through complexity remains timeless. <br/> ---- Nikhil Rupala "*
+<br/>
+<br/>
+<br/>
 I measure engineering not by the software it produces, but by the complexity it quietly eliminates.
 </div>
 
