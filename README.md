@@ -149,10 +149,8 @@ My current focus spans **Deep Learning, Large Language Models, Agentic AI, Backe
 
 <div align="center">
 
-*"Code is temporary. Problem-solving ability is permanent."*
-
-I believe in understanding concepts deeply rather than memorizing syntax — solving real-world problems through AI and scalable software engineering, and treating every project as a chance to write cleaner code and build systems with lasting impact.
-
+*"Languages change. Frameworks fade. The ability to reason through complexity remains timeless. <br/> ---- Nikhil Rupala "*
+I measure engineering not by the software it produces, but by the complexity it quietly eliminates.
 </div>
 
 <br/>
