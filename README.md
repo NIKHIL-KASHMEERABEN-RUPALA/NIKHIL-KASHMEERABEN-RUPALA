@@ -133,14 +133,13 @@ My current focus spans **Deep Learning, Large Language Models, Agentic AI, Backe
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<br/>
+<"<img src=""https://github-readme-stats.vercel.app/api?username=NIKHIL-KASHMEERABEN-RUPALA&#x26;show_icons=true&#x26;theme=react&#x26;hide_border=true&#x26;bg_color=0D1117&#x26;title_color=58A6FF&#x26;icon_color=58A6FF&#x26;text_color=C9D1D9&#x26;ring_color=58A6FF"" height=""165"" alt=""GitHub Stats"">","<img src=""https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-KASHMEERABEN-RUPALA&#x26;layout=compact&#x26;theme=react&#x26;hide_border=true&#x26;bg_color=0D1117&#x26;title_color=58A6FF&#x26;text_color=C9D1D9"" height=""165"" alt=""Top Languages"">"
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKHIL-KASHMEERABEN-RUPALA&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKHIL-KASHMEERABEN-RUPALA&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKHIL-KASHMEERABEN-RUPALA&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=NIKHIL-KASHMEERABEN-RUPALA&theme=onedark&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 ## 💭 Engineering Philosophy
 
