@@ -131,12 +131,6 @@ My current focus spans **Deep Learning, Large Language Models, Agentic AI, Backe
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKHIL-KASHMEERABEN-RUPALA&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
-
-
 ## 💭 Engineering Philosophy
 
 <div align="center">
