@@ -1,4 +1,23 @@
 
+<div align="center">
+
+<a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems+with+AI+%26+ML;Engineering+Production-Grade+Backend+Services;Deploying+Scalable+Solutions+on+the+Cloud;Deeply+Curious.+Relentlessly+Building." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/nikhil-rupala-561b6b300/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/NIK00R/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.kaggle.com/nikhilrupala">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<br/>
 
 
 
