@@ -10,7 +10,7 @@
 <br/><br/>
 
 <a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA">
-  <img src="https://streak-stats.demolab.com?user=NIKHIL-KASHMEERABEN-RUPALA&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y&custom_title=Current%20Streak%20%28Jul%2013%20-%20Sep%2023%29" alt="GitHub contribution streak showing current streak, longest streak, and current streak label" />
+  <img src="https://streak-stats.demolab.com?user=NIKHIL-KASHMEERABEN-RUPALA&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub contribution streak showing current streak, longest streak, total contributions, and streak dates" />
 </a>
 
 <br/><br/>
