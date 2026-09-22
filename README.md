@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems+with+AI+%26+ML;Engineering+Production-Grade+Backend+Services;Deploying+Scalable+Solutions+on+the+Cloud;Deeply+Curious.+Relentlessly+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+Intelligent+Systems+with+AI+[...]
 </a>
 
 <br/><br/>
@@ -16,16 +16,7 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
-
-
-
 <br/>
-
-
-
-
-
-
 
 <img src="https://komarev.com/ghpvc/?username=NIKHIL-KASHMEERABEN-RUPALA&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views"/>
 
@@ -114,6 +105,33 @@ My current focus spans **Deep Learning, Large Language Models, Agentic AI, Backe
 
 <br/>
 
+## 📊 GitHub Stats & Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NIKHIL-KASHMEERABEN-RUPALA&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Nikhil's GitHub statistics" />
+</a>
+<a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-KASHMEERABEN-RUPALA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Nikhil's most-used languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA">
+  <img src="https://streak-stats.demolab.com?user=NIKHIL-KASHMEERABEN-RUPALA&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub contribution streak showing current streak, longest streak, total contributions, and streak dates" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/NIKHIL-KASHMEERABEN-RUPALA">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKHIL-KASHMEERABEN-RUPALA&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</a>
+
+</div>
+
+<br/>
+
 ## 📚 Currently Deepening
 
 <div align="center">
@@ -143,11 +161,11 @@ My current focus spans **Deep Learning, Large Language Models, Agentic AI, Backe
 
 <div align="center">
 
-Languages change. Frameworks fade. The ability to reason through complexity remains timeless. <br/> -- Nikhil Rupala 
+Languages change. Frameworks fade. The ability to reason through complexity remains timeless. <br/> -- Nikhil Rupala
 <br/>
 <br/>
 <br/>
-my core working principle is to measure engineering not by the software it produces, but by the complexity it quietly eliminates , engineer systems that teach machines to reason and systems to endure & continue to solve problems long after I'm gone.
+my core working principle is to measure engineering not by the software it produces, but by the complexity it quietly eliminates, engineer systems that teach machines to reason and systems to endure [...]
 </div>
 
 <br/>
