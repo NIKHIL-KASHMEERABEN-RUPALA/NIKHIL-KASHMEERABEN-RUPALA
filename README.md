@@ -22,7 +22,7 @@ I am a developer focused first on **AI/ML multi-agent engineering**, while deepe
 - 🧠 Learning to build reliable AI with **reasoning patterns, evaluation, guardrails and human-in-the-loop controls**
 - ☁️ Deepening my cloud engineering skills across **containerized deployment, Kubernetes, CI/CD, observability and scalable infrastructure**
 - ⚙️ Building robust backend services with **Python, FastAPI, PostgreSQL, Redis, asynchronous APIs and secure service boundaries**
-- 🌍 Interested in technology for **governance, healthcare, infrastructure and socially meaningful systems**
+- 🌍 Flexibly Adaptable to new global trending technology 
 - 📚 Strengthening fundamentals through algorithms, data structures, machine learning and production engineering
 
 > **My direction:** Build AI systems that are not only intelligent, but explainable, secure, observable and useful in the real world.
