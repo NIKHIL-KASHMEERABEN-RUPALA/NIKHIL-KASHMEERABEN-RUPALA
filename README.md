@@ -54,7 +54,7 @@ An AI-powered early-warning and decision-intelligence platform for government ag
 - Full-stack architecture with React + TypeScript, FastAPI, SQLAlchemy, PostgreSQL/SQLite, Redis and JWT-based access control
 - Designed around transparent, evidence-based governance rather than black-box predictions
 
-### 🧬 [VitaGrid GOV — Multi-Agent Neural Mesh](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
+### 🧬 [VitaGrid GOV — Multi-Agent-Powered Neural Mesh](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
 
 live link - https://vitagrid-eight.vercel.app/
 
@@ -67,11 +67,6 @@ A multi-agent health intelligence and autonomous logistics platform for outbreak
 - Backend services with FastAPI, REST/WebSockets, PostgreSQL/PostGIS, Redis and MQTT telemetry
 - Security-conscious design with Zero-PII redaction, cryptographic HITL approvals, ECDSA/HMAC audit trails and rollback tokens
 - Explores air-gapped, sovereign and observable deployments for high-impact environments
-
-### 🔥 [NeuralForge — LLM Fine-Tuning & Serving](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Neural_Forge)
-**[View Live on Vercel →](https://neuralforge.vercel.app)**
-
-An end-to-end platform for domain adaptation and serving of language models with LoRA/QLoRA, evaluation tracking, guardrails and containerized deployment.
 
 ---
 
