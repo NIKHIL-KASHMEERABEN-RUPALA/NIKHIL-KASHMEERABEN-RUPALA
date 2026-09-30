@@ -31,7 +31,7 @@ I am a developer focused first on **AI/ML multi-agent engineering**, while deepe
 
 ## 🚀 Featured Projects
 
-### 🏛️ [BhoomiSetu — AI Land Acquisition Intelligence](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Bhoomi_Setu_Land_Acquisition_SIH_2026)
+### 🏛️ [BhoomiSetu — AI-Powered Land Acquisition Intelligence](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Bhoomi_Setu_Land_Acquisition_SIH_2026)
 
 live link - https://bhoomisetunew.vercel.app/
 
@@ -44,7 +44,7 @@ An AI-powered early-warning and decision-intelligence platform for government ag
 - Full-stack architecture with **React + TypeScript, FastAPI, SQLAlchemy, PostgreSQL/SQLite, Redis and JWT-based access control**
 - Designed around transparent, evidence-based governance rather than black-box predictions
 
-### 🧬 [VitaGrid GOV — Sovereign Health Intelligence](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
+### 🧬 [VitaGrid GOV — Multi-Agent Neural Mese](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
 
 live link - https://vitagrid-eight.vercel.app/
 
