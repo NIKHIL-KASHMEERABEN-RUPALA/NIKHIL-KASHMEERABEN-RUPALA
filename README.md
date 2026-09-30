@@ -15,8 +15,11 @@ Building intelligent, explainable and production-minded systems that turn comple
 ## 🧭 About Me
 
 ```
-I am a developer focused first on AI/ML inference engineer, AI/ML multi-agent engineering & Principal AI architect engineer, while deepening my capabilities in cloud engineering and backend systems design. I enjoy working at the intersection of intelligent systems, scalable infrastructure, and trustworthy AI.
+My main focus includes AI/ML inference engineer, AI/ML multi-agent engineering & Principal AI architect engineer
+apart form that I am a developer, deepening my capabilities in Cybersecurity , cloud engineering and deep-backend systems design. 
+I enjoy working at the intersection of intelligent systems, scalable infrastructure, and trustworthy AI.
 
+ 
 🤖 Designing cooperative AI agents, tool-calling workflows, RAG systems and LLM-powered decision platforms
 
 🧠 Learning to build reliable AI with reasoning patterns, evaluation, guardrails and human-in-the-loop controls
