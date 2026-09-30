@@ -45,7 +45,8 @@ An AI-powered early-warning and decision-intelligence platform for government ag
 - Designed around transparent, evidence-based governance rather than black-box predictions
 
 ### 🧬 [VitaGrid GOV — Sovereign Health Intelligence](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
-**[View Live on Vercel →](https://vitagrid-gov.vercel.app)**
+
+live link - https://vitagrid-eight.vercel.app/
 
 A multi-agent health intelligence and autonomous logistics platform for outbreak forecasting, medicine availability and cold-chain monitoring.
 
