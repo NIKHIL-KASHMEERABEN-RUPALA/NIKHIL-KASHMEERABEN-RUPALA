@@ -1,8 +1,7 @@
 <div align="center">
 
-# Hey, I'm Nikhil 👋
 
-### AI/ML Multi-Agent Engineer · Backend Engineer · Cloud Engineering Enthusiast
+### AI/ML Multi-Agent Engineer · Backend Engineer · CyberSecurity & Cloud Engineering Enthusiast
 
 Building intelligent, explainable and production-minded systems that turn complex public-sector problems into actionable decisions.
 
@@ -44,7 +43,7 @@ An AI-powered early-warning and decision-intelligence platform for government ag
 - Full-stack architecture with **React + TypeScript, FastAPI, SQLAlchemy, PostgreSQL/SQLite, Redis and JWT-based access control**
 - Designed around transparent, evidence-based governance rather than black-box predictions
 
-### 🧬 [VitaGrid GOV — Multi-Agent Neural Mese](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
+### 🧬 [VitaGrid GOV — Multi-Agent Neural Mesh](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
 
 live link - https://vitagrid-eight.vercel.app/
 
