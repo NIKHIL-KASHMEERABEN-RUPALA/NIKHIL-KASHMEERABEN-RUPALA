@@ -32,7 +32,8 @@ I am a developer focused first on **AI/ML multi-agent engineering**, while deepe
 ## 🚀 Featured Projects
 
 ### 🏛️ [BhoomiSetu — AI Land Acquisition Intelligence](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Bhoomi_Setu_Land_Acquisition_SIH_2026)
-**[View Live on Vercel →](https://bhoomi-setu.vercel.app)**
+
+live link - https://bhoomisetunew.vercel.app/
 
 An AI-powered early-warning and decision-intelligence platform for government agencies and infrastructure authorities.
 
