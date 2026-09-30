@@ -16,7 +16,7 @@ Building intelligent, explainable and production-minded systems that turn comple
 
 ## 🧭 About Me
 
-I am a developer focused first on **AI/ML multi-agent engineering**, while deepening my capabilities in **cloud engineering** and **backend systems design**. I enjoy working at the intersection of machine learning, distributed software, governance, and real-world decision intelligence.
+I am a developer focused first on **AI/ML multi-agent engineering**, while deepening my capabilities in **cloud engineering** and **backend systems design**. I enjoy working at the intersection of[...]
 
 - 🤖 Designing **cooperative AI agents**, tool-calling workflows, RAG systems and LLM-powered decision platforms
 - 🧠 Learning to build reliable AI with **reasoning patterns, evaluation, guardrails and human-in-the-loop controls**
@@ -32,17 +32,19 @@ I am a developer focused first on **AI/ML multi-agent engineering**, while deepe
 ## 🚀 Featured Projects
 
 ### 🏛️ [BhoomiSetu — AI Land Acquisition Intelligence](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Bhoomi_Setu_Land_Acquisition_SIH_2026)
+**[View Live on Vercel →](https://bhoomi-setu.vercel.app)**
 
 An AI-powered early-warning and decision-intelligence platform for government agencies and infrastructure authorities.
 
 - Predicts critical **90+ day land-acquisition delays** using an XGBoost pipeline
 - Uses **TreeSHAP explainability** to show why a project is at risk
 - Includes financial, legal, geographical, administrative and social risk signals
-- Provides **Day 30 / Day 60 / Day 90 trajectories**, intervention recommendations and counterfactual “what-if” simulations
+- Provides **Day 30 / Day 60 / Day 90 trajectories**, intervention recommendations and counterfactual "what-if" simulations
 - Full-stack architecture with **React + TypeScript, FastAPI, SQLAlchemy, PostgreSQL/SQLite, Redis and JWT-based access control**
 - Designed around transparent, evidence-based governance rather than black-box predictions
 
 ### 🧬 [VitaGrid GOV — Sovereign Health Intelligence](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
+**[View Live on Vercel →](https://vitagrid-gov.vercel.app)**
 
 A multi-agent health intelligence and autonomous logistics platform for outbreak forecasting, medicine availability and cold-chain monitoring.
 
@@ -55,6 +57,7 @@ A multi-agent health intelligence and autonomous logistics platform for outbreak
 - Explores air-gapped, sovereign and observable deployments for high-impact environments
 
 ### 🔥 [NeuralForge — LLM Fine-Tuning & Serving](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Neural_Forge)
+**[View Live on Vercel →](https://neuralforge.vercel.app)**
 
 An end-to-end platform for domain adaptation and serving of language models with LoRA/QLoRA, evaluation tracking, guardrails and containerized deployment.
 
@@ -66,15 +69,15 @@ An end-to-end platform for domain adaptation and serving of language models with
 
 **Agentic AI & LLM Orchestration:** Google ADK · LangGraph · Model Context Protocol (MCP) · A2A Protocol · CrewAI · Gemini API · Vertex AI · RAG · Vector Databases (Pinecone, Chroma)
 
-**AI/ML Foundations:** Machine Learning · Deep Learning fundamentals · Prompt Engineering · Model Fine-Tuning · Model Evaluation · Agent Reasoning Patterns (ReAct, Reflection, Planning) · Multi-Agent System Design · LLM Evaluation · AI Safety and Guardrails
+**AI/ML Foundations:** Machine Learning · Deep Learning fundamentals · Prompt Engineering · Model Fine-Tuning · Model Evaluation · Agent Reasoning Patterns (ReAct, Reflection, Planning) · Mu[...]
 
 ### ☁️ Deepening — Cloud Engineering
 
-Cloud architecture fundamentals · Google Cloud Platform · Vertex AI · AWS fundamentals · IAM and least-privilege access · VPC/networking · Compute and managed databases · Object storage · Serverless services · Docker · Kubernetes · Helm · Infrastructure as Code with Terraform · CI/CD with GitHub Actions · Secrets management · Monitoring, logging and tracing · Autoscaling · Cost-aware architecture · Secure and reproducible deployments
+Cloud architecture fundamentals · Google Cloud Platform · Vertex AI · AWS fundamentals · IAM and least-privilege access · VPC/networking · Compute and managed databases · Object storage · [...]
 
 ### ⚙️ Deepening — Backend Engineering
 
-Python · JavaScript · TypeScript · FastAPI · REST API design · WebSockets · asynchronous programming · Pydantic · SQLAlchemy · PostgreSQL · PostGIS · Redis · database modeling · indexing and query optimization · migrations with Alembic · authentication and authorization · JWT · RBAC · API validation · background jobs · event-driven architecture · testing · observability · performance and reliability engineering
+Python · JavaScript · TypeScript · FastAPI · REST API design · WebSockets · asynchronous programming · Pydantic · SQLAlchemy · PostgreSQL · PostGIS · Redis · database modeling · index[...]
 
 ---
 
@@ -109,7 +112,7 @@ Python · JavaScript · TypeScript · FastAPI · REST API design · WebSockets �
 
 ## 📈 What I Am Building Toward
 
-I am working toward becoming an **AI/ML Multi-Agent Engineer** capable of designing complete intelligent products—from data and model foundations to agent orchestration, backend APIs, cloud deployment, evaluation, security and observability.
+I am working toward becoming an **AI/ML Multi-Agent Engineer** capable of designing complete intelligent products—from data and model foundations to agent orchestration, backend APIs, cloud dep[...]
 
 ```text
 Problem → Data → Models → Agents → Tools → APIs → Cloud → Evaluation → Safe Impact
