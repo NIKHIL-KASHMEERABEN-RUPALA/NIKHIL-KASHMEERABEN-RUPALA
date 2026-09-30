@@ -15,8 +15,10 @@ Building intelligent, explainable and production-minded systems that turn comple
 ## 🧭 About Me
 
 ```
-My main focus includes AI/ML inference engineer, AI/ML multi-agent engineering & Principal AI architect engineer
-apart form that I am a developer, deepening my capabilities in Cybersecurity , cloud engineering and deep-backend systems design. 
+My main focus includes concepts of  AI/ML inference engineering, AI/ML multi-agent engineering & Principal AI architect engineering
+
+apart form that I am a developer, deepening my capabilities in Cybersecurity , cloud engineering and deep-backend systems design.
+
 I enjoy working at the intersection of intelligent systems, scalable infrastructure, and trustworthy AI.
 
  
