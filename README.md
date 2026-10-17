@@ -45,21 +45,18 @@ A multi-agent health intelligence and autonomous logistics platform for outbreak
 
 live link - https://ai-labour-market-intelligence-engin.vercel.app/
 
-AI-Enabled Labour Market Intelligence & Forecasting Engine bridges the critical gap between national skilling capacity and real-time industry demand. By aggregating fragmented data sources (PLFS, NCS, e-Shram, and job portals), the system normalizes signals to generate forward-looking, district-level demand–supply forecasts that help policymakers and planners make data-driven decisions.
+A sovereign AI decision-support platform for real-time occupational shortage detection, Bayesian workforce forecasting, and training capacity optimization across India's 766 districts.
 
-- Key highlights:
-  - Aggregates multiple national and online data sources for a unified view
-  - Normalizes signals to produce district-level demand and supply forecasts
-  - Built predominantly with TypeScript (repository composition: ~99.5% TypeScript)
-
+- Multi-Registry Data Ingestion: Aggregates 430M+ records from e-Shram, EPFO, NCS and NCVET across 38 Sector Skill Councils
+- Bayesian Econometric Forecasting: BSTS models forecast 6–24 month demand–supply gaps at district and sector levels
+- Linear Seat Reallocation Optimizer: Uses integer programming (Simplex) to reallocate training seats and maximize placement outcomes
+- Tool-Calling AI Policy Copilot: Grounded RAG with LoRA fine-tuning, streaming policy brief generation and live tool traces
+- Real-time Escalation Matrix: Enforces 4-tier statutory SLAs from District to State to Ministry with automated officer nudges
+- Sovereign Full-Stack Architecture: TypeScript, Express APIs, bilingual EN/HI UI and a zero-sidebar decision-command layout
+- Decision Intelligence for Governance: Detects skill shortages early and supports evidence-based public policy and workforce planning
+- Repo: https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine
 
 ---
-
-
-
-
-
-
 
 ## 🧭 About Me
 
@@ -70,7 +67,7 @@ apart form that I am a developer, deepening my capabilities in Cybersecurity , c
 
 I enjoy working at the intersection of intelligent systems, scalable infrastructure, and trustworthy AI.
 
- 
+  
 🤖 Designing cooperative AI agents, tool-calling workflows, RAG systems and LLM-powered decision platforms
 
 🧠 Learning to build reliable AI with reasoning patterns, evaluation, guardrails and human-in-the-loop controls
@@ -88,8 +85,6 @@ I enjoy working at the intersection of intelligent systems, scalable infrastruct
 
 ---
 
-
-
 ## 🎯 Current Learning Focus
 
 ### 🥇 Priority 1 — AI/ML Multi-Agent Engineering
@@ -100,11 +95,11 @@ I enjoy working at the intersection of intelligent systems, scalable infrastruct
 
 ### ☁️ Deepening — Cloud Engineering
 
-Cloud architecture fundamentals · Google Cloud Platform · Vertex AI · AWS fundamentals · IAM and least-privilege access · VPC/networking · Compute and managed databases · Object storage · [...]
+Cloud architecture fundamentals · Google Cloud Platform · Vertex AI · AWS fundamentals · IAM and least-privilege access · VPC/networking · Compute and managed databases · Object storage ·[...]
 
 ### ⚙️ Deepening — Backend Engineering
 
-Python · JavaScript · TypeScript · FastAPI · REST API design · WebSockets · asynchronous programming · Pydantic · SQLAlchemy · PostgreSQL · PostGIS · Redis · database modeling · index[...]
+Python · JavaScript · TypeScript · FastAPI · REST API design · WebSockets · asynchronous programming · Pydantic · SQLAlchemy · PostgreSQL · PostGIS · Redis · database modeling · inde[...]
 
 ---
 
