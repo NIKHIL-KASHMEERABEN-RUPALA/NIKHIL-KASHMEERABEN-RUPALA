@@ -54,7 +54,6 @@ A sovereign AI decision-support platform for real-time occupational shortage det
 - Real-time Escalation Matrix: Enforces 4-tier statutory SLAs from District to State to Ministry with automated officer nudges
 - Sovereign Full-Stack Architecture: TypeScript, Express APIs, bilingual EN/HI UI and a zero-sidebar decision-command layout
 - Decision Intelligence for Governance: Detects skill shortages early and supports evidence-based public policy and workforce planning
-- Repo: https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine
 
 ---
 
