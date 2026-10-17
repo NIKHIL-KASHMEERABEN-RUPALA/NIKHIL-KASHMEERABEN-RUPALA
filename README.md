@@ -70,7 +70,7 @@ A multi-agent health intelligence and autonomous logistics platform for outbreak
 
 ### 🏢 [AI-Enabled Labour Market Intelligence & Forecasting Engine](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine)
 
-live link - (no public deployment available)
+live link - https://ai-labour-market-intelligence-engin.vercel.app/
 
 AI-Enabled Labour Market Intelligence & Forecasting Engine bridges the critical gap between national skilling capacity and real-time industry demand. By aggregating fragmented data sources (PLFS, NCS, e-Shram, and job portals), the system normalizes signals to generate forward-looking, district-level demand–supply forecasts that help policymakers and planners make data-driven decisions.
 
@@ -78,7 +78,7 @@ AI-Enabled Labour Market Intelligence & Forecasting Engine bridges the critical 
   - Aggregates multiple national and online data sources for a unified view
   - Normalizes signals to produce district-level demand and supply forecasts
   - Built predominantly with TypeScript (repository composition: ~99.5% TypeScript)
-- Repo: https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine
+
 
 ---
 
