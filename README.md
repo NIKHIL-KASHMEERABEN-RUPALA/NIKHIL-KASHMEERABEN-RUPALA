@@ -44,7 +44,7 @@ A multi-agent health intelligence and autonomous logistics platform for outbreak
 - Security-conscious design with Zero-PII redaction, cryptographic HITL approvals, ECDSA/HMAC audit trails and rollback tokens
 - Explores air-gapped, sovereign and observable deployments for high-impact environments
 
-### 🏢 [AI Powered Labour Market Intelligence system (https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine)
+### 🏢 [AI Powered Labour Market Intelligence system](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine)
 
 Project Name - National Labour & Skill Observatory
 
