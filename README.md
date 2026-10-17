@@ -14,7 +14,8 @@ Building intelligent, explainable and production-minded systems that turn comple
 
 ## 🚀 Featured Projects
 
-### 🏛️ [BhoomiSetu — AI-Powered Land Acquisition Intelligence](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Bhoomi_Setu_Land_Acquisition_SIH_2026)
+### 🏛️ [AI-Powered Land Acquisition Intelligence](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Bhoomi_Setu_Land_Acquisition_SIH_2026)
+Project Name - BhoomiSetu 
 
 live link - https://bhoomisetunew.vercel.app/
 
@@ -27,7 +28,9 @@ An AI-powered early-warning and decision-intelligence platform for government ag
 - Full-stack architecture with React + TypeScript, FastAPI, SQLAlchemy, PostgreSQL/SQLite, Redis and JWT-based access control
 - Designed around transparent, evidence-based governance rather than black-box predictions
 
-### 🧬 [VitaGrid GOV — Multi-Agent-Powered Neural Mesh](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
+### 🧬 [Multi-Agent-Powered Neural Mesh](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/VitaGrid)
+
+Project Name - VitaGrid GOV 
 
 live link - https://vitagrid-eight.vercel.app/
 
@@ -41,7 +44,9 @@ A multi-agent health intelligence and autonomous logistics platform for outbreak
 - Security-conscious design with Zero-PII redaction, cryptographic HITL approvals, ECDSA/HMAC audit trails and rollback tokens
 - Explores air-gapped, sovereign and observable deployments for high-impact environments
 
-### 🏢 [National Labour & Skill Observatory - AI Powered Labour MArket Intelligence system ](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine)
+### 🏢 [AI Powered Labour Market Intelligence system (https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine)
+
+Project Name - National Labour & Skill Observatory
 
 live link - https://ai-labour-market-intelligence-engin.vercel.app/
 
