@@ -68,6 +68,18 @@ A multi-agent health intelligence and autonomous logistics platform for outbreak
 - Security-conscious design with Zero-PII redaction, cryptographic HITL approvals, ECDSA/HMAC audit trails and rollback tokens
 - Explores air-gapped, sovereign and observable deployments for high-impact environments
 
+### 🏢 [AI-Enabled Labour Market Intelligence & Forecasting Engine](https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine)
+
+live link - (no public deployment available)
+
+AI-Enabled Labour Market Intelligence & Forecasting Engine bridges the critical gap between national skilling capacity and real-time industry demand. By aggregating fragmented data sources (PLFS, NCS, e-Shram, and job portals), the system normalizes signals to generate forward-looking, district-level demand–supply forecasts that help policymakers and planners make data-driven decisions.
+
+- Key highlights:
+  - Aggregates multiple national and online data sources for a unified view
+  - Normalizes signals to produce district-level demand and supply forecasts
+  - Built predominantly with TypeScript (repository composition: ~99.5% TypeScript)
+- Repo: https://github.com/NIKHIL-KASHMEERABEN-RUPALA/ai-labour-market-intelligence-engine
+
 ---
 
 ## 🎯 Current Learning Focus
@@ -76,15 +88,15 @@ A multi-agent health intelligence and autonomous logistics platform for outbreak
 
 **Agentic AI & LLM Orchestration:** Google ADK · LangGraph · Model Context Protocol (MCP) · A2A Protocol · CrewAI · Gemini API · Vertex AI · RAG · Vector Databases (Pinecone, Chroma)
 
-**AI/ML Foundations:** Machine Learning · Deep Learning fundamentals · Prompt Engineering · Model Fine-Tuning · Model Evaluation · Agent Reasoning Patterns (ReAct, Reflection, Planning) · Multimodal AI · Responsible AI
+**AI/ML Foundations:** Machine Learning · Deep Learning fundamentals · Prompt Engineering · Model Fine-Tuning · Model Evaluation · Agent Reasoning Patterns (ReAct, Reflection, Planning) · Mu[...]
 
 ### ☁️ Deepening — Cloud Engineering
 
-Cloud architecture fundamentals · Google Cloud Platform · Vertex AI · AWS fundamentals · IAM and least-privilege access · VPC/networking · Compute and managed databases · Object storage · Docker · Kubernetes · DevOps workflows
+Cloud architecture fundamentals · Google Cloud Platform · Vertex AI · AWS fundamentals · IAM and least-privilege access · VPC/networking · Compute and managed databases · Object storage · [...]
 
 ### ⚙️ Deepening — Backend Engineering
 
-Python · JavaScript · TypeScript · FastAPI · REST API design · WebSockets · asynchronous programming · Pydantic · SQLAlchemy · PostgreSQL · PostGIS · Redis · database modeling · indexing · system design
+Python · JavaScript · TypeScript · FastAPI · REST API design · WebSockets · asynchronous programming · Pydantic · SQLAlchemy · PostgreSQL · PostGIS · Redis · database modeling · index[...]
 
 ---
 
@@ -119,7 +131,7 @@ Python · JavaScript · TypeScript · FastAPI · REST API design · WebSockets �
 
 ## 📈 What I Am Building Toward
 
-I am working toward becoming an AI/ML Multi-Agent Engineer capable of designing complete intelligent products—from data and model foundations to agent orchestration, backend APIs, cloud deployment and continuous evaluation.
+I am working toward becoming an AI/ML Multi-Agent Engineer capable of designing complete intelligent products—from data and model foundations to agent orchestration, backend APIs, cloud deploym[...]
 
 ```text
 Problem → Data → Models → Agents → Tools → APIs → Cloud → Evaluation → Safe Impact
