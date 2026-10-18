@@ -4,10 +4,6 @@
 
 Building intelligent, explainable and production-minded systems that turn complex public-sector problems into actionable decisions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nikhil-181717?style=for-the-badge&logo=github)](https://github.com/NIKHIL-KASHMEERABEN-RUPALA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-
 </div>
 
 ---
